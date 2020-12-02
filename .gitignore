@@ -1,7 +1,5 @@
-## SPECIFIC ##
-##############
-./dart-sass/
-
-## COMPILED SOURCES ##
+## SOURCES ##
 ######################
+*.scss
 *.exe
+*.map
