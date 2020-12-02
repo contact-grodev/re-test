@@ -1,0 +1,7 @@
+## SPECIFIC ##
+##############
+./dart-sass/
+
+## COMPILED SOURCES ##
+######################
+*.exe
